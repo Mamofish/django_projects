@@ -1,4 +1,4 @@
-#!/home/mamo/prog/django_projects/startup/bin/python
+#!/home/mamo/prog/django_projects/env_python2.7/bin/python
 
 # -*- coding: utf-8 -*-
 import re

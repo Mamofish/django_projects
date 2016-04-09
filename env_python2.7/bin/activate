@@ -39,7 +39,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/mamo/prog/django_projects/startup"
+VIRTUAL_ENV="/home/mamo/prog/django_projects/env_python2.7"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
